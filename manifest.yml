@@ -1,0 +1,5 @@
+applications:
+- name: pairup9000
+  routes:
+  - route: eunomia.eu-de.mybluemix.net
+  command: node server.js

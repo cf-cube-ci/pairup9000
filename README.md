@@ -15,8 +15,8 @@ Build to 'dist/bundle.js':
 
 `npm run dist`
 
-Build and push to BlueMix/Cloud Foundry of your Choice:
+Build and push to IBM Cloud:
 
-`npm run dist && cf push mypairupboard -c "node server.js"`
+`npm run dist && cf push`
 
 thanks for listening.
