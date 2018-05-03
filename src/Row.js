@@ -34,7 +34,7 @@ const inputStyle = {
   border: 0,
   paddingLeft: 4,
   background: "none",
-  fontFamily: "Permanent Marker",
+  fontFamily: "IBM Plex Serif",
   color: "#fff",
   fontSize: "xx-large",
   borderBottom: "1px solid #27ae60",
@@ -83,4 +83,3 @@ export default DropTarget(["BADGE"], {
     "hovered": monitor.isOver(),
   }
 })(Radium(Row));
-
