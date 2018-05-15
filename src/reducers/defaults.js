@@ -6,7 +6,7 @@ export const defaultState = {
     "0": [],
     "1": [],
     "out": [],
-    "pm": ["DrJulz", "Andrew", "Simon"],
+    "pm": ["DrJulz", "Andrew"],
     "unassigned": [
        "Julz", "Georgi", "Mario", "Steffen"
     ],
@@ -21,7 +21,6 @@ export const defaultState = {
   photos: {
     "DrJulz": "https://avatars0.githubusercontent.com/u/354013?s=96&v=4",
     "Andrew": "https://avatars1.githubusercontent.com/u/12702547?s=96&v=4",
-    "Simon": "https://avatars1.githubusercontent.com/u/13646313?s=96&v=4",
     "Julz": "https://avatars2.githubusercontent.com/u/25896939?s=96&v=4",
     "Georgi": "https://avatars2.githubusercontent.com/u/15929230?s=96&v=4",
     "Mario": "https://avatars1.githubusercontent.com/u/15073922?s=96&v=4",
@@ -32,7 +31,6 @@ export const defaultState = {
   },
   locked: {
     "DrJulz": true,
-    "Simon": true,
     "Andrew": true,
   },
   version: 0,
