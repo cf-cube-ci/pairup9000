@@ -5,7 +5,6 @@ export const defaultState = {
   assignments: {
     "0": [],
     "1": [],
-    "2": [],
     "out": [],
     "pm": ["DrJulz", "Andrew", "Simon"],
     "unassigned": [
@@ -13,11 +12,10 @@ export const defaultState = {
     ],
   },
   tracks: [
-    "0", "1", "2",
+    "0", "1",
   ],
   trackNames: {
     "0": "",
-    "1": "",
     "1": "",
   },
   photos: {
